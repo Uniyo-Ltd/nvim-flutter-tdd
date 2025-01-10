@@ -5,9 +5,7 @@
 🚀 **Supercharge Your Flutter TDD Workflow in Neovim** 🚀
 
 ```markdown
-<video autoplay loop muted playsinline>
-  <source src="assets/demo.mp4" type="video/mp4">
-</video>
+https://raw.githubusercontent.com/Uniyo-Ltd/nvim-flutter-tdd/main/assets/demo.mp4
 ```
 
 [![Lua](https://img.shields.io/badge/Made%20with-Lua-blue.svg?style=for-the-badge&logo=lua)](http://lua.org)
