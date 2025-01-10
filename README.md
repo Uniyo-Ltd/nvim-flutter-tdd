@@ -4,7 +4,7 @@
 
 🚀 **Supercharge Your Flutter TDD Workflow in Neovim** 🚀
 
-![Demo](https://i.imgur.com/ecGzVY5.gif)
+![Demo](https://imgur.com/a/ecGzVY5)
 ![Preview](https://i.imgur.com/xlKupL8)
 ![Preview](https://i.imgur.com/TTTja6t.gif)
 
