@@ -4,8 +4,8 @@
 
 🚀 **Supercharge Your Flutter TDD Workflow in Neovim** 🚀
 
-
-![Preview](https://i.imgur.com/xlKupL8.gif)
+![Demo](https://i.imgur.com/ecGzVY5.gif)
+![Preview](https://i.imgur.com/xlKupL8)
 ![Preview](https://i.imgur.com/TTTja6t.gif)
 
 [![Lua](https://img.shields.io/badge/Made%20with-Lua-blue.svg?style=for-the-badge&logo=lua)](http://lua.org)
