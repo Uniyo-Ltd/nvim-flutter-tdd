@@ -5,7 +5,7 @@
 🚀 **Supercharge Your Flutter TDD Workflow in Neovim** 🚀
 
 ```markdown
-https://raw.githubusercontent.com/Uniyo-Ltd/nvim-flutter-tdd/main/assets/demo.mp4
+https://github.com/Uniyo-Ltd/nvim-flutter-tdd/blob/main/assets/demo.mp4
 ```
 
 [![Lua](https://img.shields.io/badge/Made%20with-Lua-blue.svg?style=for-the-badge&logo=lua)](http://lua.org)
