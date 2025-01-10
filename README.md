@@ -6,7 +6,7 @@
 
 ```markdown
 <video autoplay loop muted playsinline>
-  <source src="https://raw.githubusercontent.com/Uniyo-Ltd/nvim-flutter-tdd/main/assets/demo.mp4" type="video/mp4">
+  <source src="assets/demo.mp4" type="video/mp4">
 </video>
 ```
 
